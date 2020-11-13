@@ -1,0 +1,8 @@
+*.pyc
+*.pt
+*.jpg
+*.png
+__pycache__/
+summary/
+model/
+generated_images/
